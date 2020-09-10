@@ -1,5 +1,6 @@
 # InstagramCrawler
 A python script to crawl the Instagram profiles and scrape information (posts, followers, following, comment etc.)
+Note - The crawler doesn't work any more, as the html tags for the elements have now been changed. The code template still remains the same.
 
 **Login to crawl users with private profiles whom you follow**
 
